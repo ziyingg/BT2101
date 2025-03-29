@@ -11,4 +11,5 @@
   <li> Catherlin Lu () </li>
 </ul>
 
-
+## Our Dataset
+Customer Satisfaction Response to AI: https://www.kaggle.com/datasets/pooriamst/online-shopping
